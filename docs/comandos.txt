@@ -1,0 +1,5 @@
+Realizar o cálculo da complexidade ciclomatica:
+npx eslint validateMedicationInput.ts
+
+Executar os testes de validadeMedicationInput.test:
+npx vitest run
